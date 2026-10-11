@@ -19,3 +19,5 @@ fuzz/libFuzzer/*
 fuzz/corpus
 fuzz/out
 .chk
+.cache/
+data/**/.*_cache/
